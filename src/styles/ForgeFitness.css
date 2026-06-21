@@ -16,7 +16,7 @@ nav {
   position: fixed;
   top: 0;
   width: 100%;
-  background-color: hsla(0, 2%, 35%, 0.95);
+  background-color: hsla(0, 0%, 0%, 0.95);
   backdrop-filter: blur(10px);
   z-index: 1000;
   padding: 1.5rem 2rem;
@@ -155,7 +155,7 @@ nav.scrolled {
 /* Services Section */
 #services {
   padding: 8rem 2rem;
-  background-color: #0A0A0A;
+  background-color: #454141;
 }
 
 .section-title {
